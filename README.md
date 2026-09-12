@@ -180,12 +180,6 @@ LICENSE  NOTICE   Apache-2.0
 
 再分发或发布衍生作品时，[NOTICE](NOTICE) 中的归属声明须一并保留（Apache-2.0 第 4 条）。
 
-## 关于署名
-
-本仓由 AI 写成，人负责出想法、拍板、验收。
-提交记录里的 `Co-Authored-By: Claude` 是真的，不是装饰。
-**这个署名是项目主人要求加的，不是 AI 自己给自己署的。**
-
 ---
 
 <sub>作者 comkocs ｜ 这套东西的来历与详细说明见公众号 **飞爷爷玩AI** ｜ Email:970457@qq.com</sub>
