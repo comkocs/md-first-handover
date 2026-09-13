@@ -15,8 +15,6 @@
 
 ---
 
----
-
 ## 两条路，挑一条
 
 | | 你想要的 | 走哪份 |
@@ -182,4 +180,4 @@ LICENSE  NOTICE   Apache-2.0
 
 ---
 
-<sub>作者 comkocs ｜ 这套东西的来历与详细说明见公众号 **飞爷爷玩AI** ｜ Email:970457@qq.com</sub>
+<sub>作者 comkocs ｜ Email:970457@qq.com</sub>
